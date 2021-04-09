@@ -1,7 +1,7 @@
 {
-  "name": "ContextState",
+  "name": "@tkortyka/context-state",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Context Api with Redux-ish Boilerplate",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
@@ -18,5 +18,16 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxicToast/ContextState.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ToxicToast/ContextState/issues"
+  },
+  "homepage": "https://github.com/ToxicToast/ContextState#readme"
 }
